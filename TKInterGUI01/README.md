@@ -1,4 +1,4 @@
-#Projeto da aula aberta - Criação de Iterface Gráfica com Python e Tkinter
+#Projeto da aula aberta - Criação de Iterface Gráfica com Python e Tkinter (Parte 1)
 
 Nesta nova vídeo aula aberta vamos aprender alguns conceitos fundamentais sobre criação de interfaces gráficas utilizando Python e a biblioteca gráfica nativa Tkinter e
 dessa forma vamos criar uma aplicação gráfica com botões, label, canva (criando uma sinalização gráfica).
